@@ -2,7 +2,13 @@
 
 > 🇪🇸 **¿Hablas español?** Consulta la versión en español en [README.es.md](README.es.md).
 
-A curated collection of study notes, resources, practice tests, and cheatsheets to prepare for the **AWS Certified Cloud Practitioner (CLF-C02)** exam.
+A curated collection of study notes, resources, practice tests, and cheatsheets to prepare for the **AWS Certified Cloud Practitioner (CLF-C02)** exam. Inside the "English resources" directory, there is two .md files that I created with the basic concepts.
+
+## Recomendations
+- Use a note-taking app. In my case, I used **Obsidian**.
+- Study the concepts in the .md files, but not for too long. Just read them once.
+- After reading the .md files, go directly to the practice tests. You will memorize the services faster by answering the questions.
+- GOOD LUCK!!
 
 ---
 
